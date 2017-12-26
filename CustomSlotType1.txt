@@ -1,0 +1,4 @@
+TYPE_OF_TECHNICAL_INTERVIEW
+accounting
+investment banking
+data science

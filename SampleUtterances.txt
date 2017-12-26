@@ -1,0 +1,21 @@
+DetailIntent i do not understand
+DetailIntent could you specify
+DetailIntent details
+DetailIntent detail
+SolutionIntent show me the solution
+SolutionIntent tell me the solution
+PreviousIntent previous question
+PreviousIntent previous
+NextIntent next question
+NextIntent next
+HelpIntent what can i say
+ReadyIntent i am ready
+ReadyIntent ready
+DoneIntent i am done with answer
+DoneIntent i am done
+ExitIntent go out
+TypeOfInterviewIntent {type_of_interview}
+TypeOfTechnicalInterviewIntent {type_of_technical_interview}
+TypeOfTechnicalInterviewIntent i would like a {type_of_technical_interview} question
+TypeOfTechnicalInterviewIntent get me a {type_of_technical_interview} question
+AMAZON.StartOverIntent begin again

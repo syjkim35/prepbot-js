@@ -1,0 +1,67 @@
+{
+  "intents": [
+    {
+      "intent": "DetailIntent"
+    },
+    {
+      "intent": "SolutionIntent"
+    },
+    {
+      "intent": "PreviousIntent"
+    },
+    {
+      "intent": "NextIntent"
+    },
+    {
+      "intent": "HelpIntent"
+    },
+    {
+      "intent": "ReadyIntent"
+    },
+    {
+      "intent": "DoneIntent"
+    },
+    {
+      "intent": "ExitIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "type_of_interview",
+          "type": "TYPE_OF_INTERVIEW"
+        }
+      ],
+      "intent": "TypeOfInterviewIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "type_of_technical_interview",
+          "type": "TYPE_OF_TECHNICAL_INTERVIEW"
+        }
+      ],
+      "intent": "TypeOfTechnicalInterviewIntent"
+    },
+    {
+      "intent": "AMAZON.StartOverIntent"
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
